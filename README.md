@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Zerie</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudzerie&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudzerie" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mahmoudzerie&label=Profile%20views&color=0e75b6&style=flat](https://media1.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e47s7gc31y27whn4jqfxmi2qq0qnkx5y7e3hod875mb&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="mahmoudzerie" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
